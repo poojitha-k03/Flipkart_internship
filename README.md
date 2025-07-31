@@ -1,6 +1,6 @@
 #  Multi-Source Sales Data Pipeline & Business Insights Dashboard
 
->  Built by **Vajja Sri Nikitha** for Flipkart Task-1  
+>  Built by **Manasa  Tulluri** for Flipkart Task-1  
 > 🗓 Last Updated: **30 July 2025**
 
 ---
